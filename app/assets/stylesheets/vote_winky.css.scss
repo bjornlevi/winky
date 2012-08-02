@@ -1,0 +1,35 @@
+// Place all the styles related to the VoteWinky controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+@import "bootstrap";
+
+.winky
+{
+	height: 420px;
+}
+
+.bio
+{
+	padding: 20px;
+	text-align: justify;
+	font-size: 12px;
+}
+
+.center
+{
+	width: 100%;
+	margin: 0 auto;
+}
+
+h2, h3
+{
+	margin-left: 20px;
+}
+
+input[type="submit"]
+{
+	height: 100px;
+	width: 350px;
+	font-size: 50px;
+	margin-left: 20px;
+}

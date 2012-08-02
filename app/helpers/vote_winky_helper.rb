@@ -1,0 +1,2 @@
+module VoteWinkyHelper
+end
